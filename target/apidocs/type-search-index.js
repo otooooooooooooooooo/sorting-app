@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.oto.exceptions","l":"IllegalAmountOfArgumentsException"},{"p":"com.oto.input","l":"InputMapper"},{"p":"com.oto.output","l":"OutputFormatter"},{"p":"com.oto.impl","l":"Sort"},{"p":"com.oto","l":"SortingApp"},{"p":"com.oto.exceptions","l":"WrongArgumentFormatException"}];updateSearchResults();

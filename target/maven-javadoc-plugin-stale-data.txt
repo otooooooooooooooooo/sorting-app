@@ -1,0 +1,53 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sorting-app 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sorting-app 1.0 API'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/exceptions/IllegalAmountOfArgumentsException.java'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/exceptions/WrongArgumentFormatException.java'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/impl/Sort.java'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/input/InputMapper.java'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/output/OutputFormatter.java'
+'C:/Users/Admin/git/flash/Epam_Practice/sorting-app/src/main/java/com/oto/SortingApp.java'
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\src\main\java = 1629880423034
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\allclasses-index.html = 1629890281749
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\allpackages-index.html = 1629890281749
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\constant-values.html = 1629890281608
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\deprecated-list.html = 1629890281702
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\element-list = 1629890281514
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\help-doc.html = 1629890281764
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\index-all.html = 1629890281749
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\index.html = 1629890281702
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\jquery-ui.overrides.css = 1629890281843
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\member-search-index.js = 1629890281733
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\module-search-index.js = 1629890281733
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\overview-summary.html = 1629890281764
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\overview-tree.html = 1629890281686
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\package-search-index.js = 1629890281733
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\script.js = 1629890281780
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\search.js = 1629890281780
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\serialized-form.html = 1629890281624
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\stylesheet.css = 1629890281780
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\tag-search-index.js = 1629890281733
+C:\Users\Admin\git\flash\Epam_Practice\sorting-app\target\site\apidocs\type-search-index.js = 1629890281733
